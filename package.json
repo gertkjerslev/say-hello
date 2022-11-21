@@ -1,0 +1,14 @@
+{
+    "name": "say-hello",
+    "version": "1.0.0",
+    "description": "say hello world",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Gert",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
