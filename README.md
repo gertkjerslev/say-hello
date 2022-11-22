@@ -5,7 +5,7 @@ Just another nodejs server that returns a message specified in the environment v
 ## Usage
 
 ```bash
-docker run -p 4000:4000 -e RESPONSE_MESSAGE='hello' say-hello
+docker run -p 3000:3000 -e RESPONSE_MESSAGE='hello' say-hello
 ```
 
 ## Environment Variables
