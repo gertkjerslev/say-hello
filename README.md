@@ -14,7 +14,7 @@ RESPONSE_MESSAGE
 
 ## Endpoints
 
-/hello
+/
 
 ## License
 MIT
